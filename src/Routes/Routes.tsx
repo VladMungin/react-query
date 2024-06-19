@@ -1,7 +1,7 @@
 import { Route, Routes } from 'react-router-dom'
 import { Home } from '../Components/Home/Home'
-import OneEpisode from '../Episodes/Episode'
 import Episodes from '../Episodes/Episodes'
+import OneEpisode from '../Episodes/OneEpisode'
 import Locations from '../Locations/Locations'
 const AppRoutes = () =>{
 	return <Routes>
